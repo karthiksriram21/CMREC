@@ -1,0 +1,9 @@
+{
+  "name": "My App",
+  "description": "My elevator pitch goes here",
+  "launch_path": "/index.html",
+  "developer": {
+    "name": "CMREC"
+  },
+  "default_locale": "en"
+}
